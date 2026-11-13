@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+psutil
+requests
+qrcode[pil]
+python-dotenv
+Flask
